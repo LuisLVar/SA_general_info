@@ -1,8 +1,6 @@
 # Información General - Proyecto de laboratorio
 
-
-```jsx
-Servicios: 
+### Servicios: 
 
 - Registrar Cliente
 - Registrar Proveedores
@@ -11,8 +9,8 @@ Servicios:
 - Login
 - Modificar Usuario
 - Añadir tarjeta de crédito
-```
 
+### Interfaces
 
 ```jsx
 Usuario: {
